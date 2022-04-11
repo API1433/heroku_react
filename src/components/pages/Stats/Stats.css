@@ -1,0 +1,53 @@
+.batchattendance div,
+.bar div {
+  padding: 20px 50px;
+}
+
+/* .custom .usercards h6,
+p {
+  color: #ffffff;
+} */
+
+.cardmargin {
+  margin-bottom: 0px !important;
+}
+
+.users {
+  background: linear-gradient(
+    to right,
+    rgba(1, 5, 253, 0.95),
+    rgba(1, 5, 253, 0.6)
+  );
+  font-size: 20px;
+  font-family: emoji;
+}
+
+.admins {
+  background: linear-gradient(
+    to right,
+    rgba(255, 145, 0, 0.95),
+    rgba(255, 145, 0, 0.6)
+  );
+  font-size: 20px;
+  font-family: emoji;
+}
+
+.coordinators {
+  background: linear-gradient(
+    to right,
+    rgba(255, 0, 0, 0.95),
+    rgba(255, 0, 0, 0.6)
+  );
+  font-size: 20px;
+  font-family: emoji;
+}
+
+.instructors {
+  background: linear-gradient(
+    to right,
+    rgba(2, 104, 2, 0.95),
+    rgba(2, 104, 2, 0.6)
+  );
+  font-size: 20px;
+  font-family: emoji;
+}

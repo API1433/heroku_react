@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "first_name": "Raghu",
+        "last_name": "Anand",
+        "email": "raghu.a@apisero.com",
+        "batch_id": 2,
+        "emp_id": "API12"
+    },
+    {
+        "id": 2,
+        "first_name": "Shahid",
+        "last_name": "Afridi",
+        "email": "shahid.a@apisero.com",
+        "batch_id": 2,
+        "emp_id": "API12"
+    },
+    {
+        "id": 3,
+        "first_name": "Prithvi",
+        "last_name": "Varma",
+        "email": "prithvi.p@apisero.com",
+        "batch_id": 2,
+        "emp_id": "API12"
+    },
+    {
+        "id": 4,
+        "first_name": "Shravan",
+        "last_name": "N",
+        "email": "shravan.n@apisero.com",
+        "batch_id": 2,
+        "emp_id": "API12"
+    },
+    {
+        "id": 5,
+        "first_name": "Kanika",
+        "last_name": "Kapur",
+        "email": "kanika.k@apisero.com",
+        "batch_id": 2,
+        "emp_id": "API12"
+    },
+    {
+        "id": 6,
+        "first_name": "Prashant",
+        "last_name": "Kaushal",
+        "email": "prashant.r.kaushal@apisero.com",
+        "batch_id": 2,
+        "emp_id": "API2621"
+    }
+
+]

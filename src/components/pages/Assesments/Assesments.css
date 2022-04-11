@@ -1,0 +1,19 @@
+.myselect {
+  width: 50%;
+  margin: 0px 15px 15px 15px !important;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+
+.react-datepicker__input-container {
+  height: 30px;
+  width: 130px;
+}
+.react-datepicker__input-container .form-control {
+  height: inherit;
+  border-radius: 0;
+}

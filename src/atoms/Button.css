@@ -1,0 +1,13 @@
+.ant-btn-primary.primary-btn {
+  border-radius: 4px;
+  color: #fff;
+  border: none;
+  /* padding: 7px 24px;
+  font-size: 16px; */
+  /* height: 40px; */
+  background: #5c67e5;
+}
+
+.ant-btn-primary.primary-btn :hover {
+  background: #7788fb;
+}

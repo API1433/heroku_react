@@ -1,0 +1,281 @@
+{
+  "data": [
+    {
+      "email": "afridi@gmail.com",
+      "role": "Instructor",
+      "username": "shahidafridi",
+      "id": 12
+    },
+    {
+      "email": "shahis.a@apisero.com",
+      "role": "Admin",
+      "username": "shahid afridi",
+      "id": 13
+    },
+    {
+      "email": "afridi@gmail.com",
+      "role": "Admin",
+      "username": "shahidafridi",
+      "id": 14
+    },
+    {
+      "email": "abarna.a@apisero.com",
+      "role": "Co-ordinator",
+      "username": "shahid",
+      "id": 15
+    }
+  ],
+  "batches": [
+    {
+      "id": 1,
+      "sp_batch_name": "React",
+      "sp_start_date": "2020-02-24",
+      "sp_end_date": "2020-03-29",
+      "sp_coordinator": "Mudita Garg",
+      "sp_instructor": "Raghu Anand",
+      "sp_course": "ReactJs"
+    },
+    {
+      "id": 2,
+      "sp_batch_name": "Fast Java",
+      "sp_start_date": "2020-02-22",
+      "sp_end_date": "2020-03-23",
+      "sp_coordinator": "Ferina",
+      "sp_instructor": "Mahesh",
+      "sp_course": "Java"
+    },
+    {
+      "id": 3,
+      "sp_batch_name": "Fast Python",
+      "sp_start_date": "2020-02-20",
+      "sp_end_date": "2020-03-29",
+      "sp_coordinator": "Pudita Garg",
+      "sp_instructor": "Aghu Anand",
+      "sp_course": "Python"
+    },
+    {
+      "batch_id": 544,
+      "batch_name": "fast-track-python",
+      "start_date": "2022-03-28",
+      "end_date": "2022-03-31",
+      "instructor_email_id": "prithvi.varma@apisero.com",
+      "coordinator_email_id": "achin.dwivedi@apisero.com",
+      "course": "Python",
+      "total_weeks": 8,
+      "id": 4
+    }
+  ],
+  "students": [
+    {
+      "id": 10,
+      "batch_id": 2,
+      "name": "Jay",
+      "empid": "Api010",
+      "designation": "SSE",
+      "location": "Banglore",
+      "phone": "999999",
+      "email": "jay@apisero.com",
+      "remarks": "Good"
+    },
+    {
+      "batch_id": "5",
+      "name": "Name5",
+      "empid": "API005",
+      "designation": "designation5",
+      "location": "chennai",
+      "phone": "998844",
+      "email": "abo@apisero.com",
+      "remarks": "good",
+      "id": 15
+    },
+    {
+      "batch_id": "3",
+      "name": "test",
+      "empid": "abc123",
+      "designation": "sse",
+      "location": "delhi",
+      "phone": "9832642675",
+      "email": "ab@ab.com",
+      "id": 18
+    },
+    {
+      "batch_id": "1",
+      "name": "aparna",
+      "empid": "API001",
+      "designation": "designation1",
+      "location": "kolkata",
+      "phone": "66776677",
+      "email": "abc@apisero.com",
+      "id": 19
+    },
+    {
+      "batch_id": "1",
+      "name": "Anjali",
+      "empid": "API003",
+      "designation": "designation3",
+      "location": "mumbai",
+      "phone": "554433",
+      "email": "abr@apisero.com",
+      "id": 21
+    },
+    {
+      "batch_id": "1",
+      "name": "prince",
+      "empid": "API004",
+      "designation": "designation4",
+      "location": "banglore",
+      "phone": "778866",
+      "email": "abt@apisero.com",
+      "id": 22
+    },
+    {
+      "batch_id": "1",
+      "name": "Name5",
+      "empid": "API005",
+      "designation": "designation5",
+      "location": "chennai",
+      "phone": "998844",
+      "email": "abo@apisero.com",
+      "id": 23
+    },
+    {
+      "batch_id": "1",
+      "name": "sero",
+      "empid": "nn",
+      "designation": "hh",
+      "location": "kk",
+      "phone": "98765445",
+      "email": "prithvi.v@pisero.com",
+      "id": 25
+    },
+    {
+      "batch_id": "7",
+      "name": "kkk",
+      "empid": "jhjh",
+      "designation": "SSE",
+      "location": "ooo",
+      "phone": "978686",
+      "email": "jhgjh",
+      "id": 26
+    },
+    {
+      "batch_id": "7",
+      "name": "kkk",
+      "empid": "jhjh",
+      "designation": "SSE",
+      "location": "ooo",
+      "phone": "978686",
+      "email": "jhgjh",
+      "id": 27
+    },
+    {
+      "batch_id": "2",
+      "name": "shahid",
+      "empid": "API323",
+      "designation": "SSE",
+      "location": "Mysore",
+      "phone": "8766558876",
+      "email": "prithvi.v@apisero.com",
+      "id": 28
+    }
+  ],
+  "personal": {
+    "first_name": "Shahid",
+    "last_name": "Afridi",
+    "designation": "Technical Instructor",
+    "phone_number": "9796970977",
+    "work_location": "Chandigarh",
+    "email": "Shahid#apisero.com",
+    "role": "Admin",
+    "employee_id": "API3212"
+  },
+
+  "getmarks": [
+    {
+      "id": 1,
+      "Id": "API001",
+      "Name": "aparna",
+      "ExamDate": "20/12/2021",
+      "Marks": "90",
+      "Comments": "good",
+      "batch_id": 1,
+      "assesment_id": 1
+    },
+    {
+      "id": 2,
+      "Id": "API002",
+      "Name": "prince",
+      "ExamDate": "20/12/2021",
+      "Marks": "100",
+      "Comments": "good",
+      "batch_id": 1,
+      "assesment_id": 1
+    }
+  ],
+  "addMarks": [
+    [
+      {
+        "employee_id": "1",
+        "batch_id": "1",
+        "test_name": "2",
+        "exam_date": "jg",
+        "marks": "7.9",
+        "comments": "good"
+      }
+    ],
+    [
+      {
+        "employee_id": "Api001",
+        "batch_id": "1",
+        "test_name": "2",
+        "exam_date": "20/20/2021",
+        "marks": "99",
+        "comments": "amazing"
+      }
+    ],
+    [
+      {
+        "employee_id": "Api001",
+        "batch_id": "1",
+        "test_name": "2",
+        "exam_date": "",
+        "marks": "7.9",
+        "comments": "good"
+      }
+    ]
+  ],
+  "assesment": [
+    {
+      "id": 1,
+      "assesment_id": 1,
+      "assesment_name": "Rapid Fire",
+      "batch_id": 1
+    },
+    {
+      "id": 2,
+      "assesment_id": 2,
+      "assesment_name": "Mid Assesment",
+      "batch_id": 1
+    },
+    {
+      "id": 3,
+      "assesment_id": 3,
+      "assesment_name": "Post Assesment",
+      "batch_id": 1
+    },
+    {
+      "id": 4,
+      "assesment_id": 4,
+      "assesment_name": "Mini Project",
+      "batch_id": 2
+    },
+    {
+      "id": 5,
+      "assesment_id": 2,
+      "assesment_name": "Mid Assesment",
+      "batch_id": 2
+    }
+  ]
+}
+
+
